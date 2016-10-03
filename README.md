@@ -1,4 +1,4 @@
-#ReadMe.md for Course Project "Getting and Cleaning Data" Coursera April 2015
+#ReadMe.md for Course Project "Getting and Cleaning Data" Coursera October 2016
 ##R. Ballard
 
 This Analysis was performed to parse the raw USCI   HAR dataset into a more summarized form. Below is a list of steps taken to derive the summarized table from the original data.
